@@ -1,0 +1,18 @@
+C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\bin\Debug\BL.dll
+C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\bin\Debug\BL.pdb
+C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\IVTm_231\Gotovchshik\Project\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\BL.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\BL.pdb
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Desktop\ОмГТУ МАГА\Управление запросами\salary\Project\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
